@@ -36,6 +36,9 @@ The dataset contains **1,156** records of Uber rides in 2016, including:
 
 ## 📈 Key Insights
 
+<img width="853" height="246" alt="image" src="https://github.com/user-attachments/assets/0f72d6af-123a-4ab0-bb3a-5e2d69f8e598" />
+
+
 - Most rides are categorized as **Business**.
 - The most common purpose for travel is **Meeting** and **Errands**.
 - Ride frequency is highest during the **day** and **evening hours**.
